@@ -1,0 +1,14 @@
+{
+  "state": "LA",
+  "models": [
+    {
+      "ccode": "CUT201715D23R81A",
+      "llpCode": "2DM",
+      "configuration": "eJxdkEESgyAMRS_EQnDRbqNIF0aHQlHaBXIQDy_Yjg0MC_Ienwlh34VAJlhzLsviYLooFYa0s_bSATSQVEgJevrShvE_riBT8RWPFKYNggNLs6PfGkFETJ2ixJiedb1F-_vWcHoL7EA79KgoTrYtkI8FAhb4WSjOQxEGpc4yD9CzgEgJAE7kP0RN0cGT4uQtRQ0mz1QYV5vO10bOtTFL_sDCvGuz3qpbB7GYcjk",
+      "state": "CC",
+      "option": [
+        "EEP"
+      ]
+    }
+  ]
+}
